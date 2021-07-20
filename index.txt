@@ -3,3 +3,5 @@
 Commit without -m (message)
 
 commit -a
+
+commit -am
