@@ -1,3 +1,5 @@
 ﻿Create new Text File.
 
 Commit without -m (message)
+
+commit -a
